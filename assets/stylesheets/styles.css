@@ -801,7 +801,7 @@ section {
 .container-carousel {
     margin: 4% auto;
     width: 210px;
-    height: 270px;
+    height: 120px;
     position: relative;
     perspective: 1000px
 }
@@ -1031,6 +1031,7 @@ img:hover {
 }
 .testimonials .testimonial-item .info-box{
   min-width: 276px;
+  min-height: 300px;
 }
 
 .testimonials .testimonial-item .testimonial-img {
