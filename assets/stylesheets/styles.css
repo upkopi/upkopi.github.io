@@ -48,7 +48,7 @@ h6 {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 90px 0;
+  padding: 45px 0;
   overflow: hidden;
 }
 
@@ -1017,6 +1017,7 @@ img:hover {
 --------------------------------------------------------------*/
 .testimonials .testimonial-wrap {
   padding-left: 10px;
+  padding-top: 10px;
 }
 
 .testimonials .testimonial-item {
